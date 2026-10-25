@@ -1,0 +1,23 @@
+[
+  {
+    "id": "example-1",
+    "question": "Replace this with a question answered by a real manual.",
+    "expected_source": "replace-with-real-manual.pdf",
+    "expected_page": 1,
+    "ground_truth_answer": "Replace with a verified answer from that manual."
+  },
+  {
+    "id": "example-2",
+    "question": "Replace this with a second real-manual question.",
+    "expected_source": "replace-with-real-manual.pdf",
+    "expected_page": 1,
+    "ground_truth_answer": "Replace with a verified answer from that manual."
+  },
+  {
+    "id": "example-3",
+    "question": "Replace this with a third real-manual question.",
+    "expected_source": "replace-with-real-manual.pdf",
+    "expected_page": 1,
+    "ground_truth_answer": "Replace with a verified answer from that manual."
+  }
+]

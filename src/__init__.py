@@ -1,0 +1,1 @@
+"""Industrial manual RAG package."""
